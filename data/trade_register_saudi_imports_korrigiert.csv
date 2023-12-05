@@ -1,0 +1,272 @@
+supplier,no_ordered,weapon_designation,weapon_descr,years_of_ordered,year_delivered,no_delivered,comments
+Belgium,119,Cockerill-3105 105mm,tank turret,2014,2019-2022,(55),Part of EUR3.2 b deal; for 119 LAV-700 FSV AFSV from Canada
+France,3,A-330 MRTT,tanker/transport aircraft,2008,2011-2012,(3),Delivered via Spain
+France,3,A-330 MRTT,tanker/transport aircraft,2009,2014-2015,3,Delivered via Spain
+Germany,(80),vehicle engine,vehicle engine,2006,2010-2011,(80),MB OM-366 (240hp) diesel engine for 80 CAESAR self-propelled guns from France
+Germany,(20),vehicle engine,vehicle engine,(2009),2011,(20),MB OM-366 (240hp) diesel engine for 20 CAESAR self-propelled guns from France
+Germany,(32),vehicle engine,vehicle engine,2011,2013-2014,(32),MB OM-366 (240hp) diesel engine for 32 CAESAR self-propelled guns from France
+Germany,(24),vehicle engine,vehicle engine,2018,2018,(24),MB OM-366 (240hp) diesel engine for 24 CAESAR self-propelled guns from France
+Italy,(5),Super Rapid 76mm,naval gun,(2017),,,For 4 MMSC frigates from USA
+Italy,5,Super Rapid 76mm,naval gun,(2018),2022,3,For 5 Avante-2200 frigates from Spain
+Switzerland,55,PC-21,trainer aircraft,2012,2014-2016,55,Part of GBP1.6 b ($2.5 b) deal; ordered via UK company
+United Kingdom,3,air refuel system,air refuel system,2008,2011-2012,(3),For 3 A-330 MRTT tanker/transport aircraft from France
+United Kingdom,3,air refuel system,air refuel system,2009,2014-2015,(3),For 3 A-330 MRTT tanker/transport aircraft from France
+United States,(6),CF6,turbofan,2008,2011-2012,(6),For 3 A-330 MRTT tanker/transport aircraft from France
+United States,(6),CF6,turbofan,2009,2014-2015,(6),For 3 A-330 MRTT tanker/transport aircraft from France
+United States,(742),vehicle engine,vehicle engine,2014,2018-2021,(665),C-13 (711hp) diesel engine; for 742 LAV-700 armoured vehicles from Canada
+Austria,(50),MMV,APC,2014,2015-2016,(50),
+France,39,HSI-32,patrol craft,2018,2020-2022,(39),Incl production under licence of 18 in Saudi Arabia
+France,19,HSI-32,patrol craft,2020,,,Incl 9 produced under licence in Saudi Arabia; delivery planned by 2023
+Turkiye,(46),Karayel,armed UAV,2020,2020-2022,(9),
+United Kingdom,(50),MSTAR,ground surv radar,(1997),1998-2000,(50),Assembled from kits in Saudi Arabia
+Austria,(37),M12 120mm,mortar,(2008),2010,37,
+Belgium,130,LCTS-90 90mm,tank turret,2000,2000-2004,(130),For 130 Piranha LAV-90 (LAV-AG) AFSV from Canada
+Belgium,(10),LCTS-90 90mm,tank turret,(2006),2006,(10),For Piranha (LAV-AG) AFSV from Canada
+Belgium,84,LCTS-90 90mm,tank turret,(2009),2011-2014,(84),For 84 Piranha (LAV-90 or LAV-AG) AFSV from Canada
+Belgium,(119),MCT,IFV turret,2014,2019-2021,(97),Part of EUR3.2 b deal; for 119 LAV-700 IFV from Canada
+Brazil,(10),ASTROS-2000,self-propelled MRL,2014,2016,(10),
+Bulgaria,(2200),Fagot,anti-tank missile,2015,2015-2017,(2200),Possibly second-hand; probably for Saudi aid to Syrian rebels or Yemen
+Bulgaria,24,BTR-60P,APC,2016,2016-2017,24,Second-hand; designation uncertain (reported as 'BTR'); probably to be used by Saudi Arabia as aid to Syrian rebels or Yemen
+Canada,987,Piranha,APC,1990,1994-2001,(987),Part of $700 m deal; ordered via USA; LAV version; incl 384 LAV-25 IFV; 71 ambulance; 18 ALV; 182 command post; 67 ARV; 34 AEV; 111 LAV-AT anti-tank and 73 AFSV version; for National Guard
+Canada,130,Piranha,APC,2000,2000-2004,(130),Part of $416 m deal; LAV-90 (LAV-AG) FSV version; ordered via USA as part of $700 m deal for 1117 Piranha; for National Guard
+Canada,(132),Piranha,APC,(2006),2006-2009,(132),Incl LAV-25 IFV and LAV-AG FSV version; for National Guard
+Canada,724,Piranha,APC,2009,2011-2015,(724),$2.2 b deal (part of $5.8 b deal); sold via USA; LAV version; incl LAV-25 IFV; LAV-AG FSV; LAV-AT anti-tank; 120mm mortar caririer; ARV; command post and ambulance versions; for National Guard
+Canada,155,Piranha,APC,2011,2015,(155),$264 m deal; incl 82 for National Guard; incl 17 APC; 28 anti-tank; 29 command post; 5 ARV; 3 ALV; 1 AEW; 6 mortar carrier and 6 ambulance version
+Canada,(55),aircraft engine,aircraft engine,2012,2014-2016,(55),Pratt & Whitney Canada PT-6A-68B (1250hp) turboprop; for 55 PC-21 trainer aircraft from Switzerland
+Canada,(70),Gurkha,APV,2013,2014-2016,(70),Incl for border guard and police
+Canada,385,LAV-700,APC,2014,2018-2022,(380),Part of CAD14 b ($10-11) b deal; incl ambulance; ARV; command post and VIP transport versions; delivery planned 2018-2023
+Canada,119,LAV-700 AT,tank destroyer,2014,2018-2022,(47),Part of CAD14 b ($10-11) b deal
+Canada,119,LAV-700 FSV,AFSV,2014,2019-2022,(55),Part of CAD14 b ($10-11) b deal
+Canada,119,LAV-700 IFV,IFV,2014,2019-2022,(119),Part of CAD14 b ($10-11) b deal
+Canada,(8),aircraft engine,aircraft engine,2015,2015-2018,8,Pratt & Whitney Canada PW-127G (2650hp) turboprop for 2 C295 transport and 2 C-295 maritime patrol aircraft from Spain
+Canada,(89),Gurkha,APV,(2016),2017-2018,(89),Probably incl for border guard and police
+China,(54),PLZ-45 155mm,self-propelled gun,(2007),2008-2009,(54),
+China,(20),CH-4B,armed UAV,(2014),2015-2018,(20),
+China,(15),Wing Loong-1,armed UAV,(2014),2015-2017,(15),
+China,(50),FT-9,guided bomb,(2016),2018,(50),For CH-4A and possibly Saqr-1 UAV
+China,(5),CH-4A,UAV,2017,2018,(5),Produced under licence in Saudi Arabia
+China,(50),Wing Loong-2,armed UAV,2017,2017-2021,(45),
+China,(5),TWA,air search radar,(2020),2021,(5),Incl for use with Crotale SAM systems and Silent Hunter anti-UAV systems
+Finland,36,NEMO 120mm,mortar turret,(2011),2012-2015,(36),EUR100 m deal; for 36 Piranha (LAV-2) mortar carriers from Canada;
+France,3,F-3000S,frigate,1994,2002-2004,3,Part of $3.4 b 'Sawari-2' deal (offsets 35%); also designated Modified La Fayette; Saudi designation Al Riyadh
+France,(50),MM-40 Exocet,anti-ship missile,1994,2000-2005,(50),For F-3000S (Al Riyadh) frigates; MM-40 Block-2 version
+France,12,AS-532U2 Cougar,transport helicopter,1996,1998-2001,12,$508 m 'Al Fahd'; armed AS-532A2 CSAR version
+France,(75),ASTER-15 SAAM,SAM,(1997),2002-2004,(75),For F-3000S (Al Riyadh) frigates
+France,(40),F17,anti-ship/ASW torpedo,(1997),2002-2004,(40),For F-3000S (Al Riyadh) frigates
+France,(30),VLRA TPK-BL,APC,(2005),2006-2007,30,Possibly for police
+France,(6),AS565M Panther,helicopter,(2006),2010-2011,(6),
+France,(80),CAESAR 155mm,self-propelled gun,2006,2010-2011,(80),For National Guard
+France,(1000),Mistral,portable SAM,2006,2007-2010,(1000),EUR500 m deal; for National Guard; Mistral-2 version
+France,(25),2R2M 120mm,mortar,2007,2009-2010,(25),For M-113 mortar carrier; for National Guard
+France,(60),Damocles,aircraft EO system,(2007),2009-2017,(60),For Tornado and Typhoon combat aircraft; possibly incl assembly or production of components in Saudi Arabia
+France,20,CAESAR 155mm,self-propelled gun,(2009),2011,(20),For National Guard
+France,(73),Aravis,APC,2011,2013-2015,(73),For National Guard
+France,(1000),BONUS-2,guided shell,(2011),2012-2013,(1000),
+France,32,CAESAR 155mm,self-propelled gun,2011,2013-2015,(32),EUR169 m deal; assembled from kits in Saudi Arabia
+France,(20),Ground Master-60,air search radar,2011,2013-2015,(20),Part of IMGP command/control systems for use with MPCV SAM system
+France,(1000),Mistral,portable SAM,2011,2013-2015,(1000),Mistral-2 version; for MPCV SAM systems
+France,(49),MPCV,self-propelled AD system,2011,2013-2015,(49),For National Guard
+France,191,Aravis,APC,2012,2015-2016,(191),For National Guard
+France,(500),ARIVE,APC,(2013),2016-2018,(500),For National Guard
+France,(250),MICA,BVRAAM,2013,2018-2019,(250),For VL-MICA SAM system
+France,(100),MILAN,anti-tank missile,(2013),2014,(100),For use on M-ATV armoured vehicles
+France,(80),Mistral,portable SAM,2013,2016-2017,(80),For Simbad-RC SAM systems on 2 Boraida support ships
+France,(5),VL-MICA,SAM system,2013,2018-2019,(5),For National Guard and Royal Guard
+France,(4),COBRA,arty locating radar,(2014),2019,(4),Originally ordered by Saudi Arabia as aid for Lebanon but Lebanese aid cancelled and radars taken over by Saudi Arabia
+France,(71),Bastion,APC/APV,(2015),2016,(71),Bastion PATSAS version
+France,(10),FLASH,ASW sonar,2015,2018-2019,(10),For 10 MH-60R ASW helicopters from USA
+France,100,Sherpa,APC/APV,2016,2016-2017,(100),Originally ordered by Saudi Arabia as aid for Lebanon but Lebanese aid cancelled and vehicles taken over by Saudi Arabia
+France,100,VAB MK-3,IFV,2016,2019-2020,(100),VAB Mk-3 ARX-25 version; originally ordered by Saudi Arabia as aid for Lebanon but Lebanese aid cancelled and vehicles taken over by Saudi Arabia
+France,(88),LG1 105mm,towed gun,(2017),2018-2021,88,
+France,24,CAESAR 155mm,self-propelled gun,2018,2018,(24),
+France,5,CAPTAS-2,ASW sonar,2018,2022,3,For 5 Avante-2200 frigates from Spain
+France,(120),MICA,BVRAAM,(2018),2022,(70),For Avante-2200 frigates
+France,5,VL-MICA,SAM system,(2018),2022,3,For 5 Avante-2200 frigates from Spain
+France,7,AS-532 Cougar/AS-332,transport helicopter,(2019),2020-2021,7,H215M version
+France,12,FPB-2200,FAC,(2020),2022,(7),Delivery planned 2022-2023
+Georgia,100,Didgori,APV,2015,2016-2017,(100),Assembled in Saudi Arabia
+Germany,(100),vehicle engine,vehicle engine,(1995),1998-2005,(100),Deutz V-10 (400hp) diesel engine; for 100 AF-40-8-1 APC produced in Saudi Arabia
+Germany,(1400),IRIS-T,BVRAAM,2009,2010-2014,(1400),For Tornado and Typhoon combat aircraft
+Germany,(10),Luna,UAV,2010,2011-2012,(10),
+Germany,(41),Spexer-2000,ground surv radar,(2011),2012-2013,(41),For border surveillance
+Germany,(73),vehicle engine,vehicle engine,2011,2013-2014,(73),OM-924 (218hp) diesel engine; for 73 Aravis APC from France
+Germany,(191),vehicle engine,vehicle engine,2012,2015-2016,(191),OM-924 (218hp) diesel engine; for 191 Aravis APC from France
+Germany,(500),vehicle engine,vehicle engine,(2013),2016-2018,(500),OM-926 (306hp) diesel engine; for 500 ARIVE APC from France
+Germany,15,FPB-40,patrol craft,2014,2016-2018,15,Delivery of 18 more cancelled 2020
+Germany,4,Spexer-2000,ground surv radar,2014,2014,(4),For border surveillance
+Germany,23,EC145,light helicopter,2016,2017-2018,(23),EUR500 m deal; ordered via France
+Germany,(5),TRS-4D,multi-function radar,(2017),,,For 4 MMSC frigates from USA
+Germany,20,ship engine,ship engine,2018,2022,(12),MTU-1163 (5950hp) diesel; for 5 Avante-2000 frigate from Spain; from Spanish production line
+Germany,5,TRS-4D,multi-function radar,(2018),2022,3,For 5 Avante-2200 frigates from Spain
+Italy,3,Super Rapid 76mm,naval gun,(1994),2002-2004,3,For 3 F-3000S (Al Riyadh) frigates from France
+Italy,(16),Bell-412,helicopter,2001,2002,(16),$150 m deal; AB-412 version
+Italy,(9),X-TAR,air search radar,(2004),2007-2009,(9),
+Italy,(4),Falco,UAV,(2011),2012,(4),Lease
+Italy,26,X-TAR,air search radar,2011,2015-2016,(26),For use with MPCV SAM systems
+Italy,2,RAT-31S,air search radar,2013,2015,(2),Designation uncertain (reported as 'transportable air traffic control radar'); possibly also for civilian use
+Italy,6,RAT-31S,air search radar,2016,2016-2017,(6),Designation uncertain (reported as 'fixed and transportable air traffic control radar'); possibly also for civilian use
+Netherlands,(225),SQUIRE,ground surv radar,2009,2011-2015,(225),Sold via French company (part of 'Miksa' deal); for border security
+Pakistan,20,MFI-17 Supporter,trainer aircraft,2004,2005,(20),$34 m deal; Super Mushshak version
+Russia,(10),TOS-1,self-propelled MRL,(2017),2019,10,
+Serbia,(5),M-63 Plamen 128mm,towed MRL,2015,2015,(5),Second-hand; possibly ordered by Saudi Arabia as aid to Syrian rebels or Yemeni government
+Serbia,(847),UBM-52 120mm,mortar,(2015),2015-2017,(847),Second-hand; designation uncertain (reported as '120mm mortar'); delivered via Bulgaria and Slovakia; probably for Saudi aid to Syrian rebels or Yemen
+Serbia,50,OT-64A,APC,2016,2016,50,Second-hand; possibly ordered by Saudi Arabia as aid for Yemeni government
+Slovakia,(36),BM-21 Grad 122mm,self-propelled MRL,(2012),2013-2016,36,Second-hand; possibly ordered by Saudi Arabia as aid to Syrian rebels or Yemeni government; supplier may be Czech Republic
+Slovakia,(42),M12 120mm,mortar,(2015),2019-2020,42,M12-1535 version
+South Africa,(50),Al Kaser,APC,2005,2007-2008,50,
+South Africa,46,RG-32 Scout,APV,(2005),2006,46,
+South Africa,(25),Mamba,APC/APV,(2010),2011,(25),Reva-5 version; for police
+South Africa,5,Al Kaser,APC,2013,2014,(5),Al Mansour version
+South Africa,60,LM13,APC/APV,2014,2015-2017,(60),ZAR611m deal
+South Africa,(35),Casspir-6,APC,(2016),2017-2020,(35),For border guard; Caprivi Mk-3 version; may also include other APC types
+South Korea,(100),Raybolt,anti-tank missile,(2017),2018,(100),
+South Korea,(500),LOGIR,ASM/anti-ship missile,(2020),2022,(250),For FPB-2200 FAC
+Spain,2,C-295,transport aircraft,2015,2015-2017,2,For Ministry of Interior
+Spain,2,C-295MPA,maritime patrol aircraft,2015,2018,2,For Ministry of Interior
+Spain,100,Alakran 120mm,self-propelled mortar,2017,2020,100,For border guard
+Spain,5,Avante-2200,frigate,2018,2022,3,EUR1.8-2 b 'Alsawarat' deal; Saudi designation Al Jubail; delivery planned 2022-2024
+Sweden,(200),RBS-56B Bill-2,anti-tank missile,2005,2010-2011,(200),Possibly second-hand
+Sweden,2,Saab-2000 AEW,AEW&C aircraft,2010,2014,2,SEK4.5 b ($670 m) deal; second-hand Saab-2000 transport aircraft modified to AEW aircraft
+Sweden,5,CEROS-200,fire control radar,2017,,,For 4 MMSC frigates from USA
+Switzerland,(18),Skyguard,fire control radar,(2006),2009-2011,18,For use with 35mm AA guns
+Switzerland,(2),Skyguard,fire control radar,(2017),2019,(2),Skyguard-3 version for use with GDF 35mm AA guns
+Turkiye,(98),Cobra,APV,(2003),2004,(98),Designation uncertain (reported as 'light armoured vehicle)
+Turkiye,(64),M-113A300,APC,2004,2005-2006,(64),Saudi M-113 rebuilt to M-113A4 or M-113A300; assembled in Saudi Arabia
+Turkiye,(64),M-113A300,APC,(2005),2007,(64),Saudi M-113 rebuilt to M-113A300 (M-113A4); assembled in Saudi Arabia
+Turkiye,10,ACV-S,APC,2006,2007,10,Command post version
+Turkiye,(300),M-113A300,APC,2007,2008-2010,(300),Saudi M-113 rebuilt to M-113A300 (M-113A4); assembled in Saudi Arabia
+Turkiye,(312),M-113A300,APC,2010,2010-2013,(312),$324 m deal; Saudi M-113 rebuilt to M-113A300 (M-113A4); assembled in Saudi Arabia
+Turkiye,(320),M-113A300,APC,2011,2013-2015,(320),$200 m deal; Saudi M-113 rebuilt to M-113A300 (M-113A4); assembled in Saudi Arabia
+Turkiye,(350),M-113A300,APC,(2013),2015-2017,(350),$360 m deal; Saudi M-113 rebuilt to M-113A300 (M-113A4); assembled in Saudi Arabia
+Ukraine,(1204),R-2,anti-tank missile,(2017),2018-2019,(1204),
+Ukraine,1806,R-3 Korsar,anti-tank missile,(2017),2018-2019,(1806),
+Ukraine,(60),Kozak-5,APC/APV,(2020),2021,60,
+United Kingdom,73,AMS 120mm,mortar turret,1996,2000,(73),$57 m deal (incl ammunition from Belgium); for 73 Piranha/LAV AFSVs delivered from Canada
+United Kingdom,100,Paveway,guided bomb,1999,2000,100,Second-hand; Paveway-3 version
+United Kingdom,(261),Tactica,APC,(2006),2008-2009,(261),For National Guard; incl from Belgian production line
+United Kingdom,(21),EJ-200,turbofan,2007,2009-2017,(21),Spares for Typhoon combat aircraft
+United Kingdom,24,Typhoon Block-20,FGA aircraft,2007,2015-2017,24,Part of GBP4.4 b deal (part of up to GBP20 b 'Project Salam'); Typhoon Block-25C (Tranche-3A) version
+United Kingdom,48,Typhoon Block-8,FGA aircraft,2007,2009-2015,(48),Part of GBP4.4 b deal (part of up to GBP20 b 'Project Salam'); Typhoon Block-8BC; Block-8C; Block-9C; Block-10C; Block-11C and Block-15C (Typhoon Tranche-2) versions
+United Kingdom,(350),Storm Shadow/SCALP-EG,ASM,(2009),2011-2013,(350),For modernized Tornado combat aircraft
+United Kingdom,22,Hawk-100,trainer/combat aircraft,2012,2016-2017,22,Part of GBP1.6 b deal; Hawk-165 (Hawk AJT) version
+United Kingdom,(2400),Paveway,guided bomb,2013,2015,(2400),GBP150 m ($250 m) deal; Paveway-4 version; for Typhoon and modernized Tornado combat aircraft
+United Kingdom,(100),Storm Shadow/SCALP-EG,ASM,2013,2016-2017,(100),For Tornado and/or Typhoon combat aircraft
+United Kingdom,(1000),Brimstone,ASM,(2015),2016-2019,(1000),For Tornado combat aircraft
+United Kingdom,22,Hawk-100,trainer/combat aircraft,2015,2019-2021,(22),Hawk-165 (Hawk AJT) version; assembled in Saudi Arabia
+United Kingdom,. .,Meteor,BVRAAM,(2015),2018,(20),EUR1 b deal; for Typhoon combat aircraft
+United Kingdom,8,MT-30,gas turbine,2017,,,For 4 MMSC frigates from USA
+United Kingdom,(180),LMM Martlet,anti-ship missile/ASM/SAM,2020,2022,(90),Designation uncertain (reported as 'man portable air defence system missiles')
+United States,(1748),vehicle engine,vehicle engine,(1990),1991-2004,(1748),6V-53T diesel engine; for 1748 Piranha (LAV) APC from Canada and Switzerland
+United States,523,M-113A3,APC,1997,2003-2006,(523),$413 m deal; Saudi M-113 rebuilt to M-113A3
+United States,(2),RE-3,SIGINT aircraft,(1998),2004,(2),Saudi KE-3A tanker aircraft rebuilt to RE-3 ELINT/SIGINT aircraft
+United States,500,AIM-120C AMRAAM,BVRAAM,2000,2003-2006,(500),$475 m deal; for F-15 combat aircraft
+United States,1827,BGM-71 TOW,anti-tank missile,2000,2001-2002,(1827),Part of $416 m deal; BGM-71E TOW-2A version; for National Guard
+United States,27,M-60A3 Patton-2,tank,(2000),2001,27,Second-hand
+United States,105,AGM-65 Maverick,ASM,2001,2002-2003,(105),$21 m deal; 98 AGM-65D and 7 AGM-65G version
+United States,(16),Bell-412,helicopter,2001,2002-2003,(16),Bell-412SA or Bell-412RSAF version; from Canadian production line
+United States,(562),BGM-71 TOW,anti-tank missile,2001,2002-2003,(562),BGM-71E TOW-2A version
+United States,(48),M-109A5 155mm,self-propelled gun,(2001),2002-2004,(48),Probably Second-hand
+United States,1,RE-3,SIGINT aircraft,(2004),2007,1,Second-hand E-8B AGS aircraft rebuilt to RE-3B
+United States,(64),vehicle engine,vehicle engine,2004,2005-2006,(64),Detroit Diesel 6V-53T (275hp) diesel engine for 64 M-113A300 (M-113A4) APC from Turkey
+United States,(75),AIM-9M Sidewinder,SRAAM,2005,2006,(75),Part of $17 m deal´
+United States,(75),AIM-9M Sidewinder,SRAAM,2005,2007,(75),Part of $17 m deal
+United States,4,Citation-2,light transport aircraft,(2005),2005-2006,4,
+United States,(64),vehicle engine,vehicle engine,(2005),2007,(64),Detroit Diesel 6V-53T (275hp) diesel engine for 64 M-113A300 (M-113A4) APC from Turkey
+United States,(14),AIM-120C AMRAAM,BVRAAM,2006,2008,(14),AIM-120C-5 version
+United States,(100),LAV-25 turret,IFV turret,2006,2006-2009,(100),For Piranha (LAV-25) IFV from Canada
+United States,(132),vehicle engine,vehicle engine,2006,2006-2009,(132),Detroit Diesel 6V-53T (275hp) diesel engine for 132 Piranha (LAV) APC from Canada
+United States,(10),vehicle engine,vehicle engine,2006,2007,10,Detroit Diesel 6V-53T (275hp) diesel engine for 10 ACV-S APC from Turkey
+United States,65,F110,turbofan,2007,2008-2009,(65),$300 m deal; F-110-GE-129C version; for modernization of F-15S combat aircraft
+United States,16,S-92,transport helicopter,2007,2008-2010,(16),For police; incl for civilian police use
+United States,12,AH-64D Apache,combat helicopter,2008,2011,(12),Incl 11 Saudi AH-64A rebuilt to AH-64D version
+United States,91,F110,turbofan,2008,2009-2010,(91),Part of $750 m deal; F-110-GE-129C version; for modernization of F-15S combat aircraft
+United States,900,JDAM,guided bomb,2008,2010-2011,(900),
+United States,(59),M-1A2S,tank,2008,2012-2014,(59),Second-hand but rebuilt to M-1A2S before delivery
+United States,22,S-70 Black Hawk,transport helicopter,2008,2010-2011,(22),$286 m deal
+United States,(350),vehicle engine,vehicle engine,2008,2008-2010,(350),Detroit Diesel 6V-53T (275hp) diesel engine for 320 M-113A300 (M-113A4) APC from Turkey
+United States,14,AAQ-33 Sniper,aircraft EO system,2009,2010,(14),$40 m deal; for F-15S combat aircraft
+United States,12,AH-64E Apache,combat helicopter,(2009),2014-2015,(12),
+United States,(150),AIM-9X Sidewinder,BVRAAM,2009,2010,(150),
+United States,72,ETS,anti-tank AV turret,(2009),2011-2013,(72),ETS Mk-2 version; for 72 Piranha (LAV-AT) tank destroyers from Canada
+United States,2,King Air-350 ISR,AGS aircraft,(2009),2011,2,
+United States,264,LAV-25 turret,IFV turret,(2009),2011-2015,(264),For 264 Piranha (LAV-25) IFV from Canada
+United States,(90),M-198 155mm,towed gun,(2009),2010-2013,90,Second-hand
+United States,(314),M-1A2S,tank,2009,2012-2017,(314),Saudi M-1A1 rebuilt to M-1A2S version
+United States,100,Paveway,guided bomb,(2009),2010-2011,(100),GBU-10 and GBU-12 Paveway-2 versions
+United States,9,Schweizer-330,light helicopter,2009,2009,(9),S-434 version
+United States,19,Schweizer-330,light helicopter,(2009),2010,(19),S-333 version
+United States,(724),vehicle engine,vehicle engine,2009,2011-2015,(724),6V-53T (275hp) diesel engine; for 724 Piranha (LAV) APC from Canada
+United States,(21),AAQ-33 Sniper,aircraft EO system,2010,2011-2012,(21),$40-42 m deal
+United States,(37),APG-78 Longbow,combat heli radar,(2010),2014-2016,(37),For 37 AH-64D Longbow combat helicopters
+United States,(2742),BGM-71 TOW,anti-tank missile,(2010),2011-2013,(2742),$177 m deal; BGM-71E TOW-2A version; for National Guard
+United States,13,S-70 Black Hawk,transport helicopter,2010,2012-2013,(13),Saudi UH-60A rebuilt to UH-60L
+United States,3,S-70 Black Hawk,transport helicopter,2010,2011,3,S-70i version; from Polish production line; for police
+United States,(312),vehicle engine,vehicle engine,2010,2010-2013,(312),Detroit Diesel 6V-53T (275hp) diesel engine for 312 M-113A300 (M-113A4) APC from Turkey
+United States,(193),AAQ-13 LANTIRN,combat aircraft radar,(2011),2016-2022,(184),For F-15SA combat aircraft
+United States,(2592),AGM-114L HELLFIRE,anti-tank missile,(2011),2013-2014,(2592),AGM-114R version; for AH-64 combat helicopters; for National Guard
+United States,(600),AGM-88 HARM,anti-radar missile,(2011),2018-2022,(500),AGM-88B version
+United States,(24),AH-64E Apache,combat helicopter,(2011),2015-2016,(24),
+United States,(300),AIM-9X Sidewinder,BVRAAM,(2011),2012-2019,(300),AIM-9X Block-2 version
+United States,84,F-15 Advanced Eagle,FGA aircraft,2011,2016-2020,(84),Part of $29 b deal; F-15SA version
+United States,68,F-15 Advanced Eagle,FGA aircraft,2011,2016-2022,(27),Part of $29 b deal; Saudi F-15S rebuilt to F-15SA; delivery planned 2016-2026
+United States,21,Patriot Configuration-3,ABM/SAM system,2011,2014-2017,(21),$1.7 b deal; Saudi Patriot SAM systems rebuilt to Patriot-3 version
+United States,(3100),Paveway,guided bomb,(2011),2013-2016,(3100),Incl 1100 GBU-24 Paveway-3 and 2000 Dual Mode Paveway
+United States,2,S-70 Black Hawk,transport helicopter,2011,2012,2,$27 m deal
+United States,12,S-70 Black Hawk,transport helicopter,2011,2013-2014,(12),Saudi UH-60A rebuilt to UH-60L version
+United States,(670),vehicle engine,vehicle engine,2011,2013-2017,(670),Detroit Diesel 6V-53T (275hp) diesel engine for 670 M-113A300 (M-113A4) APC from Turkey
+United States,(155),vehicle engine,vehicle engine,2011,2015,(155),Detroit Diesel 6V-53T (275hp) diesel engine for 155 Piranha (LAV) APC from Canada
+United States,(158),AAQ-33 Sniper,aircraft EO system,2012,2016-2022,(102),For F-15SA combat aircraft
+United States,12,AH-64E Apache,combat helicopter,(2012),2015,(12),For National Guard
+United States,(10),DB-110,aircraft recce system,2012,2014-2016,(10),$183 m deal; for F-15SA combat aircraft
+United States,(25),F110,turbofan,(2012),2017-2019,(25),Spare engines for F-15SA combat aircraft
+United States,(400),Harpoon Block-2,anti-ship missile/SSM,(2012),2016-2020,(400),AGM-84L version; for F-15SA combat aircraft
+United States,600,JDAM,guided bomb,2012,2016,(600),GBU-31B version
+United States,(63),K-6 120mm,mortar,(2012),2013,63,Probably second-hand; M-120A1 version
+United States,(9),King Air,light transport aircraft,2012,2013-2014,(9),King Air-350 version
+United States,1,King Air,light transport aircraft,2012,2013,1,Second-hand but probably modernized before delivery; King Air-350 version
+United States,4,King Air-350 ISR,AGS aircraft,(2012),2015-2016,(4),
+United States,(12),MD-500E,light helicopter,2012,2013,12,$41 m deal; MD-530F version; for National Guard; for training
+United States,24,S-70 Black Hawk,transport helicopter,2012,2014-2015,(24),For National Guard; UH-60M version
+United States,(500),AIM-120C AMRAAM,BVRAAM,2013,2015-2019,(500),AIM-120C-7 version
+United States,(1300),CBU-97 SFW,guided bomb,2013,2014-2015,(1300),CBU-105D/B version
+United States,(1000),GBU-39 SDB,guided bomb,(2013),2017-2021,(1000),
+United States,2,KC-130J Hercules,tanker/transport aircraft,2013,2016,2,$181 m deal
+United States,(534),M-ATV,APV,2013,2014-2016,(534),
+United States,25,SR-22,light aircraft,2013,2013,25,Ordered via UK company (as part of GBP1.6 b deal); for training
+United States,(2176),AGM-114L HELLFIRE,anti-tank missile,2014,2015-2016,(2176),AGM-114R version
+United States,(355),AGM-154 JSOW,guided bomb,2014,2016-2018,(355),$122 m deal; JSOW-C Block-3 version
+United States,24,AH-6S,combat helicopter,2014,2016-2018,(24),$235 m deal; AH-6i version; for National Guard
+United States,(4941),BGM-71F TOW-2B,anti-tank missile,(2014),2015-2018,(4941),For National Guard
+United States,(10747),BGM-71 TOW,anti-tank missile,2014,2015-2018,(10747),BGM-71 TOW-2A and TOW-2A-RF versions; incl 9740 for National Guard
+United States,(60),vehicle engine,vehicle engine,2014,2015-2017,(60),Cummins-8.81 (400hp) diesel engine; for 60 LM-13 APC from South Africa
+United States,24,AH-64E Apache,combat helicopter,2015,2021-2022,(24),
+United States,(1325),M-ATV,APV,(2015),2016-2017,(1325),Recipient possibly other Middle Eastern country
+United States,10,MH-60R Seahawk,ASW helicopter,2015,2018-2019,(10),
+United States,(320),MIM-104 PAC-3,ABM missile,2015,2017-2019,(320),For modernized Patriot SAM systems
+United States,(3),Patriot Configuration-3,ABM/SAM system,2015,2017-2019,(3),$2 b deal
+United States,(8120),Paveway,guided bomb,2015,2016-2017,(8120),
+United States,402,Harpoon Block-2,anti-ship missile/SSM,(2016),2020-2022,(170),AGM-84L version; for F-15SA combat aircraft; delivery planned 2020-2026
+United States,(2645),JDAM,guided bomb,2016,2018,(2645),Incl GBU-31; GBU-38; GBU-54 LJDAM and GBU56 LJDAM versions
+United States,(2),King Air-350 ISR,AGS aircraft,2016,2019-2020,(2),
+United States,153,M-1A2S,tank,2016,2018-2020,(153),
+United States,(20),M-88A2 HERCULES,ARV,(2016),2019-2020,(20),
+United States,9,S-70 Black Hawk,transport helicopter,2016,2017,(9),
+United States,618,AGM-154 JSOW,guided bomb,2017,2019-2022,(618),$302 m deal; JSOW-C Block-3 version
+United States,8,CH-47F Chinook,transport helicopter,2017,2022,(8),
+United States,(512),ESSM,SAM,(2017),,,For MMSC frigates
+United States,130,MIM-104 PAC-3,ABM missile,2017,2020,(130),PAC-3 CRI version
+United States,4,MMSC,frigate,2017,,,Delivery planned from 2023
+United States,(10),PTDS,AGS radar,2017,,,74K Persistent Threat Detection System (PTDS) Aerostats
+United States,(100),RIM-116A RAM,SAM,(2017),,,RAM Block-2 and/or Block-2A version for SeaRam SAM system on MMSC frigates
+United States,(57),S-70 Black Hawk,transport helicopter,2017,2018-2022,(57),UH-60M version; including 8 for National Guard
+United States,(650),AGM-84H SLAM-ER,ASM,(2018),2021-2022,(135),$2 b deal; for F-15SA combat aircraft; delivery probably planned 2021-2028
+United States,(20),MIM-104 PAC-3,ABM missile,2018,,,Delivery planned by 2024
+United States,(130),MIM-104 PAC-3,ABM missile,2018,2022,(100),$279 m deal; PAC-3 CRI version; delivery planned by 2023
+United States,7,THAAD,ABM system,2018,,,Delivery planned 2023-2027
+United States,360,THAAD missile,ABM missile,2018,,,
+United States,(20000),Paveway,guided bomb,2019,2019-2020,(20000),Incl Enhanced Paveway version
+United States,(500),Paveway,guided bomb,2019,2020,(500),Paveway-4 version
+United States,(26),TPQ-53,arty locating radar,(2021),,,
+United States,(280),AIM-120D AMRAAM,BVRAAM,(2022),,,
+unknown supplier(s),(25),MIM-104 PAC-2,SAM,2021,2022,(25),Second-hand; supplier is Kuwait; Qatar or UAE
+unknown supplier(s),(25),MIM-104 PAC-2,SAM,2021,2022,(25),Second-hand; supplier is Kuwait; Qatar or UAE
